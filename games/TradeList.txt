@@ -1,0 +1,157 @@
+John's Trade List - Last updated 2/23/99
+
+Notes:
+
+There are 2 basic formats for each cart listing.  For systems that
+come with overlays standard (like the Intellivision), the columns are:
+  Title - Rarity - Boxes - Docs - Overlays - Comments
+For systems with no expected overlays (i.e. the 2600), the columns are:
+  Title - Rarity - Boxes - Docs - Comments
+
+The rarity rating is taken straight from the Digital Press video game
+collector's guide.  Note that this rating is based on a bare cart.
+
+Most of this stuff consistst of duplicates in my collection.  I'm
+trying to make room for more.  If this stuff isn't gone by, say, March,
+then off to eBay it goes.  If you're interested in trading something,
+feel free to email me at jcook@earthling.net
+(that's earthlinG, not earthlinK).
+
+Oh, by the way, I can take digital pictures now if necessary (let me
+know).
+===============================================
+
+
+Video Game Systems
+----------------------------------------------------------------------
+Vectrex
+  Good shape, works fine
+
+ActionMax
+  Boxed system, a little battery leak inside cover (this one looks like new, though)
+  Complete system, missing reflector thing, a little battery leak inside cover
+
+Atari
+  2600 - 4 systems (5? 6?  I lose track)
+
+Coleco
+  Colecovision - 2 complete systems,
+               - Expansion Module #1 (2600 adaptor)
+
+Intellivision - 2 w/bad controllers
+              - Voice module
+
+Turbo Grafx 16 - bare (no controllers)
+
+Odyssey2 - 3 systems
+
+NES - 5 or 6 complete systems
+
+Odyssey 300 - 1 system w/funky RF unit
+
+Microvision (doesn't work, boo hoo hoo)
+
+
+Classic Computers
+I'm getting rid of a lot of my classic computers -- video games have
+taken over
+----------------------------------------------------------------------
+Commodore
+  C64 - 3 or 4 systems w/drives
+  C128 - 2 systems
+  C128D - no keyboard
+
+Kaypro
+  Kaypro II - w/System disks and a few others
+  Kaypro 4 - power supply bad
+
+Texas Instruments
+  TI 99/4A - w/docs
+  PHP1200 expansion system w/docs
+  Voice Module
+
+Others
+  Coleco Adam - Video weird, probably a bad video chip, w/controllers
+  Timex Sinclair 1000 - w/docs
+  Tandy CoCo 1 - w/2 disk drives
+  TRS-80 Model I - monitor, tape drive, some other funky drive
+
+
+
+
+================
+Cartridges
+================
+
+Emerson Arcadia 2001 Carts 
+Title                                   R B D Comment
+----------------------------------------------------------------------
+#1 Cat Trax                             3 1 1 Sealed                                                                                                                                                                                                                                                         
+#15 Baseball                            3 1 1 Opened, but shrinkwrap is still around box                                                                                                                                                                                                                     
+#2 Space Attack                         3 1 1 Sealed                                                                                                                                                                                                                                                         
+#20 Tanks A Lot                         3 1 1 Sealed                                                                                                                                                                                                                                                         
+#3 Escape                               3 1 1 Sealed                                                                                                                                                                                                                                                         
+#5 Space Raiders                        3 1 1 Sealed                                                                                                                                                                                                                                                         
++++ 
+ 
+Atari 2600 Carts 
+Title                                   R B D Comment
+----------------------------------------------------------------------
+Atlantis                                2 0 0 Imagic                                                                                                                                                                                                                                                         
+Breakout                                1 0 0                                                                                                                                                                                                                                                                
+Combat                                  1 0 0                                                                                                                                                                                                                                                                
+Combat                                  1 0 0                                                                                                                                                                                                                                                                
+Combat                                  1 0 0                                                                                                                                                                                                                                                                
+Combat                                  1 0 0                                                                                                                                                                                                                                                                
+Demons to Diamonds                      1 0 0 Atari                                                                                                                                                                                                                                                          
+Frogger                                 1 0 0                                                                                                                                                                                                                                                                
+Pac-Man                                 1 0 0 Atari                                                                                                                                                                                                                                                          
+Phoenix                                 1 0 0                                                                                                                                                                                                                                                                
+Pitfall!                                1 0 0                                                                                                                                                                                                                                                                
+Smurf: Rescue in Gargamel's Castle      2 0 0                                                                                                                                                                                                                                                                
+Video Olympics                          1 0 0                                                                                                                                                                                                                                                                
+Warlords                                2 0 0 Sears                                                                                                                                                                                                                                                          
+Warlords                                1 0 0 Atari                                                                                                                                                                                                                                                          
++++ 
+ 
+Atari 5200 Carts 
+Title                                   R B D O Comment
+----------------------------------------------------------------------
+Centipede                               1 0 0 0                                                                                                                                                                                                                                                                
+Countermeasure                          2 0 0 0                                                                                                                                                                                                                                                                
+Dig Dug                                 1 0 0 0                                                                                                                                                                                                                                                                
+Joust                                   1 0 0 0                                                                                                                                                                                                                                                                
++++ 
+ 
+Colecovision Carts 
+Title                                   R B D Comment
+----------------------------------------------------------------------
+Donkey Kong                             1 0 0                                                                                                                                                                                                                                                                
++++ 
+ 
+Intellivision Carts 
+Title                                   R B D O Comment
+----------------------------------------------------------------------
+Advanced Dungeons and Dragons           1 0 0 0                                                                                                                                                                                                                                                                
+Auto Racing                             1 0 0 0 Mattel, Triangle screw                                                                                                                                                                                                                                         
+Beauty and the Beast                    2 0 0 0                                                                                                                                                                                                                                                                
+Burgertime                              2 0 0 0                                                                                                                                                                                                                                                                
+Donkey Kong                             2 0 0 0                                                                                                                                                                                                                                                                
+Las Vegas Poker & Blackjack             1 0 0 1 Mattel                                                                                                                                                                                                                                                         
+Major League Baseball                   1 0 0 0                                                                                                                                                                                                                                                                
+Night Stalker                           3 0 0 0 Sears                                                                                                                                                                                                                                                          
+Triple Action                           1 0 0 0 Mattel                                                                                                                                                                                                                                                         
+Tron Deadly Discs                       1 0 0 0                                                                                                                                                                                                                                                                
++++ 
+ 
+Odyssey 2 Carts 
+Title                                   R B D Comment
+----------------------------------------------------------------------
+Computer Golf!                          2 0 0                                                                                                                                                                                                                                                                
+Football!                               1 0 0                                                                                                                                                                                                                                                                
+K.C. Munchkin!                          1 1 1                                                                                                                                                                                                                                                                
+K.C. Munchkin!                          1 0 0                                                                                                                                                                                                                                                                
+K.C. Munchkin!                          1 0 0                                                                                                                                                                                                                                                                
+Pick Axe Pete!                          2 0 0 Middle of handle broken                                                                                                                                                                                                                                        
+Speedway!/Spin-Out!/Crypto-Logic!       1 0 0                                                                                                                                                                                                                                                                
++++
